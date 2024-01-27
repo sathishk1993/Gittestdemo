@@ -1,0 +1,6 @@
+pageObjects\LandingPage.class
+pageObjects\OffersPage.class
+utils\TestBase.class
+pageObjects\CheckOutPage.class
+pageObjects\PageObjectManager.class
+cucumberOptions\FailedTestRunner.class
